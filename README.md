@@ -15,7 +15,6 @@ Picture this: You open your phone, and a dull, uninspiring screen stares back. Y
 
 - 🌅 **A Gateway to Beauty**: Search through a vast collection of wallpapers powered by the **Pexels API**, offering professional-grade, royalty-free images.  
 - 🖼️ **Effortless Customization**: Set your favorite wallpaper with just a few taps—choose from **Home Screen**, **Lock Screen**, or both.  
-- 💾 **Reliable Offline Support**: Love an image? It stays with you! Revisit your recent searches even when offline.  
 - 🚀 **Failsafe Design**: Network hiccups? No worries. The app handles API errors gracefully, keeping the experience frustration-free.  
 
 ---
@@ -38,7 +37,7 @@ This app isn’t just about looks; it’s built on a foundation of cutting-edge 
    - **Home Screen**  
    - **Lock Screen**  
    - **Both Screens**  
-3. 💾 **Save Your Favorites**: Keep track of your most-loved wallpapers and revisit them anytime.  
+3. - 📤 **Download**: Save images directly to your device or share them with friends.  
 
 ---
 
@@ -68,15 +67,6 @@ This app isn’t just about looks; it’s built on a foundation of cutting-edge 
    ```  
 
 ---
-
-## 🚀 Future Enhancements  
-
-- 🌙 **Dark Mode Support**: Because even apps deserve a nighttime look.  
-- 🤖 **Personalized Recommendations**: Wallpapers based on your preferences and past searches.  
-- 📤 **Download & Share**: Save images directly to your device or share them with friends.  
-
----
-
 ## 🤝 Let’s Connect  
 
 This project is the result of creative passion and technical innovation. Feedback and contributions are always welcome!  
@@ -88,7 +78,3 @@ This project is the result of creative passion and technical innovation. Feedbac
 ---
 
 **🎉 Elevate your screen’s aesthetic. Download the Wallpaper App today!**  
-
----  
-
-Let me know if you’d like even more customization or enhancements!
